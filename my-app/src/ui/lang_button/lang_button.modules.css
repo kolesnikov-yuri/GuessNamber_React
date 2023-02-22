@@ -1,0 +1,22 @@
+.lang-button {
+    display: flex;
+    margin-bottom: 6px;
+}
+.lang {
+    display: flex;
+    align-items: center;
+}
+.flag {
+    width: 60px;
+    height: 40px;
+}
+.flag-ru {
+    background-color: red;
+}
+.flag-en {
+    background-color: blue;
+}
+.signature {
+    color: #fff;
+    font-size: 30px;
+}

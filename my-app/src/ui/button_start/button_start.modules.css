@@ -1,0 +1,16 @@
+.button_start {
+    margin: 0 auto;
+    width: 200px;
+    height: 80px;
+    border-radius: 32px;
+    background-color: rgb(243, 169, 10);
+    border-color: rgb(230, 72, 72);
+    font-size: 42px;
+    cursor: pointer;
+
+}
+
+
+.button_start:hover {
+    background-color: rgb(243, 29, 10);
+}

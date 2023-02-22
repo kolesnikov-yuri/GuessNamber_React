@@ -1,0 +1,13 @@
+.level {
+    margin-bottom: 8px;
+}
+.level_text{
+    color: yellow;
+    font-size: 26px;
+}
+.level_text-numb {
+    color: red;
+    font-size: 36px;
+    font-weight: bold;
+    font-family:sans-serif;
+}
