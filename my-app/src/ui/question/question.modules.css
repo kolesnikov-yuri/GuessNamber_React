@@ -1,0 +1,12 @@
+.task_game {
+    margin-bottom: 24px;
+}
+.task_game-text,
+.ansver_game {
+    text-align: center;
+    font-size: 32px;
+    color: blue;
+}
+.task_numb {
+    color: green;
+}

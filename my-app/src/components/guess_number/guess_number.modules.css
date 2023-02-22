@@ -22,4 +22,13 @@
     justify-content: space-between;
     padding: 20px 0;
    }
-  
+.narration{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+.animal {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}

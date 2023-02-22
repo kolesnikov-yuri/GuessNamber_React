@@ -1,0 +1,8 @@
+.question {
+    display: table-cell;
+    vertical-align: middle;
+    width: 500px;
+    height: 150px;
+    background-color: rgb(223, 223, 108);
+    border-radius: 60px;
+}
